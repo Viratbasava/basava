@@ -1,0 +1,5 @@
+{
+  "name": "Smart Student Expense Tracker",
+  "description": "A simple, fast, mobile-friendly app for students to track daily expenses, manage sessions, and split bills.",
+  "requestFramePermissions": []
+}
